@@ -4,11 +4,11 @@ Personal developer portfolio built with Next.js, Tailwind CSS, and Framer Motion
 
 ## Live Website
 
-- https://iamashishkundu.vercel.app
+- https://ashishkundu.vercel.app/
 
 ## Repository
 
-- https://github.com/iamashishkundu/portfolio
+- https://github.com/iamashishkundu/portfolios
 
 ## About
 
